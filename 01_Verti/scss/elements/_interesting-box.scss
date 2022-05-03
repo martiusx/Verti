@@ -1,0 +1,24 @@
+.interesting__wrapper {
+
+    p {
+        margin-top: 40px;
+    }
+
+    .button {
+        margin-bottom: 20px;
+        font-size: 1.23rem;
+        flex-direction: row-reverse;
+        i{
+            margin-right: 10px;
+        }
+    }
+}
+
+.interesting-box {
+    margin: 10px 0;
+
+    img {
+        border-radius: 10px;
+
+    }
+}
