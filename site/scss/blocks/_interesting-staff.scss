@@ -1,0 +1,17 @@
+.interesting-staff{
+    background-color: white;
+    padding: 25px 15px;
+    h4{
+        margin-bottom: 20px;
+    }
+    @media screen and (min-width: 992px){
+        flex-direction: row-reverse;
+    }
+    h3{
+        font-size: 1.08rem;
+        margin-bottom: 15px;
+        @media screen and (min-width: 768px){
+            font-size: 1.23rem;
+        }
+    }
+}

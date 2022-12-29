@@ -1,5 +1,5 @@
 // Ścieżka do aktualnie wykonywanego zadania
-const entryPath = "side";
+const entryPath = "site";
 
 const gulp = require("gulp");
 const sass = require("gulp-sass")(require("sass"));
